@@ -38,11 +38,9 @@ body{
     left: 80%;
     display: inline-block;
 }
-
 img{
-    width: 120%;
-    height: 60%;
-    
+    width: 20rem;
+    height: 300px;   
 }
 h1{
     color: white;
@@ -58,7 +56,5 @@ p{
 /* Hover */
 
 .image:hover{
-    bottom: 10%;
-    left: 45%;
-   
+    transform: scale(1.7) translateX(-50%) translateY(20%);
 }
