@@ -1,4 +1,7 @@
 # shoe_hover
+<h2>Hosted Link</h2>
+ https://jaitensahu.github.io/shoe_hover/
+ <br><br><br>
 
 ![1](https://github.com/jaitensahu/shoe_hover/assets/127736781/dd90dbc3-3958-45f5-be9e-9e6cbd1d310a)
 <br>
